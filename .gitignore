@@ -1,0 +1,6 @@
+venv/
+env/
+output/
+
+config.py
+id_rsa
